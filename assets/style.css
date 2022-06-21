@@ -1,0 +1,28 @@
+header {
+    display:flex;
+    justify-content:space-between;
+    align-items:center; 
+    background-color: #264653;
+  }
+  #name{
+    fill: #e9c46a;
+    padding:0 10px;
+    background-color: #e9c46a;
+  }
+  #navbar li{
+    display:inline-block;
+    margin-right: 16px;
+    padding-right: 16px;
+  }
+  #navbar a{
+    text-decoration:none;
+    font-size:20px;
+    padding-right:15px;
+    color: white;
+  }
+
+  .cover{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+  }
