@@ -2,15 +2,15 @@
 
 ## Description
 
-This was a refactoring code assignment utilizing a provided HTML and CSS document to increase the accessibility of the page with semantic tags.
+This was a challenge in where we were to use what we learned in class to build a portfolio landing page utilizing HTML and CSS.
 
--The motivation for this project was attempting to improve my understanding of altering code to make a website more accessible while strengthening my understanding of semantic tags and the partnership between HTML and CSS.
+-The motivation for this project was to push myself to better understand HTML and CSS and how they work together in building a page.
 
--I built this project as a way to test myself on the material I learned over the last week and really utilize the hands on experience to better myself and my understanding on the topics of HTML and CSS
+-I built this project as a way to push myself in areas where I was uncomfortable in order to get a hands on experience to strenghten my understanding of HTML and CSS and how they work hand in hand.
 
--This project solves the lack of accessibility on the webpage, with the use of semantic tags and better organization of the code it allowed us to increase the accessibility of the page to all users.
+-This project helped solve my lack of understanding on best practices for CSS and utilizing its tools like flexbox, although I still have a long way to go to being comfortable with it, I still feel like I am at a better understanding than where I was even 2 days ago.
 
--I learned how to better use semantic tags and properly lay out a html and css file to increase the accessibility on a webpage for all users and viewers.
+-I learned how to better use flex box and CSS in unison with HTML to create a portfolio landing page.
 
 ## Table of Contents
 
@@ -25,18 +25,22 @@ The use of this page is intended to be a mock Landing page for a company named H
 
 ## GitHub Repository
 
--Repository URL: https://github.com/thenoahac/code-refactor
+-Repository URL: https://github.com/thenoahac/Portfolio-Challenge-2
 
 -Deploy URL: https://thenoahac.github.io/code-refactor/
 
 ## Site Image
 
-! [Screenshot-1](./assets/screenshots/Capture.png)
+! [Screenshot-1](./assets/Capture.JPGg)
+
+-I for the life of me couldn't figure out how to get this image onto the README.md file.
 
 ## Credits
 
--Thank you to Gabe Sowa for trouble shooting Semantic Tags on the Index file
+-Thank you to Gabe Sowa for trouble shooting CSS elements with me.
 
--Thank you to Matthew Hoefer for troubleshooting the README file
+-Thank you to Ming Zhong for your help with flexboxes.
 
--Thank you to Lindsay Lewis for troubleshooting the CSS sheet and its correlation to the index file
+-Thank you to Aelin Rose for helping me trouble shoot media queries.
+
+-Thank you to Colin Shaw for tutoring me and helping me get a better understanding of CSS and Flexboxes.
