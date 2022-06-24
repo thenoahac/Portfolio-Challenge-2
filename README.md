@@ -27,7 +27,7 @@ The use of this page is to demonstrate my current understanding of HTML and CSS 
 
 -Repository URL: https://github.com/thenoahac/Portfolio-Challenge-2
 
--Deploy URL: https://thenoahac.github.io/code-refactor/
+-Deploy URL: https://thenoahac.github.io/Portfolio-Challenge-2/
 
 ## Site Image
 
