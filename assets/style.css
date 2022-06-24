@@ -29,6 +29,7 @@ header {
   flex: wrap;
   gap: 2rem;
   list-style-type: none;
+  margin: auto;
 
 }
 
@@ -36,15 +37,16 @@ header {
   text-decoration: none;
   color: white;
   font-size: 28px;
+  display: flex;
+  flex: wrap;
 }
 
 .contact-list li {
   display: flex;
-  flex: wrap;
-  margin-left: 100px;
-  margin-right: 60px;
+  flex-wrap: wrap;
+  margin: auto;
   align-items: center;
-  justify-content: space-between;
+  justify-content: cen;
 }
 
 .contact-list a {
@@ -89,19 +91,22 @@ header {
   margin-left: 100px;
   margin-right: 60px;
   padding-top: 15px;
-  font-size: 21px;
+  font-size: 29px;
 }
 
 .container {
   display: flex;
   flex: wrap;
+  justify-content: space-around;
 }
 
 .work-container {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   align-items: center;
   padding: 15px;
+  justify-content: center;
+  margin: auto;
 }
 
 .work-container a {
@@ -116,26 +121,40 @@ header {
 }
 
 .work-container > #top-box {
+  justify-content: center;
   flex: 0 0 400px;
   width: 400px;
   height: 400px;
   background-image: url(https://images.unsplash.com/photo-1596887245124-5150ad2491e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80);
 }
 
-.work-container > a > div > h2 {
+.small-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.small-box {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.work-container > a > div > h2, .small-container > a > div > h2 {
   color: #F4A261;
   border:  1px solid gold;
   align-items: center;
 }
 
-@media screen (max-width: 992px) {
+@media screen and (max-width: 992px) {
   .container, .nav-list {
     width:75%
   }
 }
 
-@media screen (max-width: 720px) {
-  body {
-    width:50%
-  }
+@media screen  and (max-width: 720px) {
+ .nav-list {
+  flex-direction: column;
+  gap: 1rem;
+ }
 }
