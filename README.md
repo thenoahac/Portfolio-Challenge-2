@@ -21,7 +21,7 @@ This was a challenge in where we were to use what we learned in class to build a
 
 ## Usage
 
-The use of this page is intended to be a mock Landing page for a company named Horiseon that specializes in Social Media Marketing and Online Reputation and Image.
+The use of this page is to demonstrate my current understanding of HTML and CSS to allow my peers to know where my strengths are and also give me pointers on where to improve and how to better myself.
 
 ## GitHub Repository
 
